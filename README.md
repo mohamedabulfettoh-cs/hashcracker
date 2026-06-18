@@ -45,7 +45,7 @@ Hashcracker is a simple hash-cracking tool written in Python. Is it a replacemen
 
 ```bash
 git clone https://github.com/mohamedabulfettoh-cs/hashcracker
-cd HashCracker
+cd hashcracker
 pip install numba numpy
 ```
 
